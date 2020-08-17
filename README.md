@@ -1,6 +1,6 @@
 ### I'm Ronkiro 😁
 
-I'm a Fullstack Developer/Computer Engineering student that loves coding. I code since i was 7yo, and that's my true passion. My first language was Lua, but now my stack is totally different.
+I'm a **Fullstack Developer/Computer Engineering student** that loves coding. I code since i was 7yo, and that's my true passion. My first language was `Lua`, but now my stack is totally different.
 
 > 📫 Meet me! [LinkedIn](https://www.linkedin.com/in/ronkiro/) | [Page](https://ronkiro.github.io/) | [Stackoverflow](https://stackoverflow.com/users/10473393/alexander-santos) | [E-mail](mailto:dev_alex@outlook.com) | [Codepen](https://codepen.io/ronkiro)
 
@@ -10,4 +10,4 @@ My current focus on learning is DevOps and cloud environments, but i'm always lo
 
 You can feel free to contact me at any of the channels provided above, even if just to meet me. 😂
 
-⚡ Fun Fact: I really love Python and React, simplicity always make me very curious.
+⚡ **Fun Fact:** I really love Python and React, simplicity always make me very curious.
