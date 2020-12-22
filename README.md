@@ -6,7 +6,7 @@ I'm a **Fullstack Developer/Computer Engineering student** that loves coding. I 
 
 I'm currently working at [Globo](https://redeglobo.globo.com/) as a `Software Engineer`. But i also do works on open-source, either by just replying the community, helping with it's organization or by really coding in practice.
 
-My current focus on learning is DevOps and cloud environments, but i'm always looking into improving myself on what i already know.
+My current focus on learning is Machine Learning and AI, but i'm always looking into improving myself on what i already know.
 
 You can feel free to contact me at any of the channels provided above, even if just to meet me. 😂
 
