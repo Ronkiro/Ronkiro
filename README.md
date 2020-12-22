@@ -13,3 +13,5 @@ You can feel free to contact me at any of the channels provided above, even if j
 ⚡ **Fun Fact:** I really love `Python` and `React`, simplicity always make me very curious.
 
 Sorry for the messy environment. I'm cleaning my profile, so you may see better updates soon :)
+
+![](https://komarev.com/ghpvc/?username=Ronkiro&color=green)
