@@ -1,4 +1,4 @@
-### I'm Ronkiro 😁
+### I'm Ronkiro / Alexander Diniz 😁
 
 I'm a **Fullstack Developer/Computer Engineering student** that loves coding. I code since i was 7yo, and that's my true passion. My first language was `Lua`, but now my stack is totally different.
 
