@@ -1,10 +1,10 @@
 ### I'm Ronkiro / Alexander Diniz 😁
 
-I'm a **Fullstack Developer/Computer Engineering student** that loves coding. I code since i was 7yo, and that's my true passion. My first language was `Lua`, but now my stack is totally different.
+I'm a **Fullstack Developer/Computer Engineer** that loves coding. I code since i was 7yo, and that's my true passion. My first language was `Lua`, but now my stack is totally different.
 
 > 📫 Meet me! [LinkedIn](https://www.linkedin.com/in/ronkiro/) | [Page](https://ronkiro.github.io/) | [Stackoverflow](https://stackoverflow.com/users/10473393/alexander-santos) | [E-mail](mailto:dev_alex@outlook.com) | [Codepen](https://codepen.io/ronkiro)
 
-I'm currently working at [Globo](https://redeglobo.globo.com/) as `Lead Software Engineer`. But i also do works on open-source, either by just replying the community, helping with it's organization or by really coding in practice.
+I'm currently working at [Globo](https://redeglobo.globo.com/) as `Tech Lead`. But i also do works on open-source, either by just replying the community, helping with it's organization or by really coding in practice.
 
 My current focus on learning is Machine Learning and AI, but i'm always looking into improving myself on what i already know.
 
